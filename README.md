@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=AI+Developer;Building+AI+Tools+%26+Automation;n8n+Workflows+%26+AI+Agents" alt="Typing banner" />
 </p>
 
-### AI Developer | BS Computer Science, Minhaj University Lahore (2029)
+### AI Developer | BS Computer Science, Minhaj University Lahore
 
 Building practical AI tools, websites, automation and chatbots. No signup, no fluff — tools that work in the browser.
 
