@@ -8,21 +8,34 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=AI+Developer;Building+AI+Tools+%26+Automation;n8n+Workflows+%26+AI+Agents" alt="Typing banner" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-AI%20Automation-22C55E?style=for-the-badge" alt="Open to Work — AI Automation" />
+  <img src="https://komarev.com/ghpvc/?username=Zawar1-Ai&color=22C55E&style=flat" alt="Profile views" />
+</p>
+
 ### AI Developer | BS Computer Science, Minhaj University Lahore (2029)
 
 Building practical AI tools, websites, automation and chatbots. No signup, no fluff — tools that work in the browser.
 
 ---
 
-### What I'm building
+### 🔭 Currently working on
 
-- **Clevora — Job Scam Checker** — Free, browser-only checker for remote-job beginners. Paste a job post and get a Safe / Caution / High Risk verdict.
-  - Live: https://www.clevora.website/
-  - Code: https://github.com/Zawar1-Ai/Job-scam-checker
-- **VideoSave — All Video Downloader** — Paste a TikTok, YouTube, Instagram, Facebook, LinkedIn, X or Pinterest link and download it. No sign-up, mobile friendly.
-  - Live: https://videosave.clevora.website/
-  - Code: https://github.com/Zawar1-Ai/VideoSave
-- **AI Automation & Agents** — n8n workflows, AI agents, CRM automation, and Zapier / Make migration to n8n.
+- **Clevora** — SEO and indexing for the Job Scam Checker (all 5 guides indexed, Nov 2026)
+- **VideoSave** — SEO and monetisation prep for the video downloader
+- **RAN AI** — a management system for my own software house (attendance, payroll, ledger, cashbook)
+- **Client work** — custom AI agents, n8n workflow automation, chatbots and CRM automation
+
+---
+
+### ⭐ Featured Projects
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Clevora — Job Scam Checker** | Free, browser-only checker for remote-job beginners. Paste a job post and get a Safe / Caution / High Risk verdict, with 10 red flags and an 8-point checklist. | HTML, JavaScript, Vercel | [Live](https://www.clevora.website/) · [Code](https://github.com/Zawar1-Ai/Job-scam-checker) |
+| **VideoSave — All Video Downloader** | Paste a TikTok, YouTube, Instagram, Facebook, LinkedIn, X or Pinterest link and download it. No sign-up, mobile friendly, with a format picker. | HTML, JavaScript, yt-dlp, Vercel, Render | [Live](https://videosave.clevora.website/) · [Code](https://github.com/Zawar1-Ai/VideoSave) |
+| **RAN AI — Company Management System** | Management system for a software house: attendance day sheet, payroll, employee/director ledgers, FBR tax slabs and challan, and an Excel-style cashbook. | Vercel, Supabase | Live on request — private repo |
+| **AI Automation & Agents** | n8n workflows, AI agents (OpenAI / Claude / Gemini), CRM automation, and Zapier / Make migration to n8n. | n8n, OpenAI, APIs | [Fiverr](https://www.fiverr.com/sanwa01/design-and-build-n8n-ai-automations-ai-agents-and-custom-workflow-solutions) |
 
 ---
 
@@ -34,6 +47,10 @@ Building practical AI tools, websites, automation and chatbots. No signup, no fl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,vercel,github" alt="Skills" />
+</p>
 
 ---
 
@@ -53,6 +70,15 @@ Building practical AI tools, websites, automation and chatbots. No signup, no fl
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zawar1-Ai/Zawar1-Ai/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
+
+---
+
+### 🤝 Let's work together
+
+I build custom AI agents and n8n workflow automations for businesses — no generic templates, each workflow is built for that business's own tools and problem.
+
+- 📧 Email: muhammadsanwal3620@gmail.com
+- 💼 Fiverr: [sanwa01 — AI agents & n8n workflow automations](https://www.fiverr.com/sanwa01/design-and-build-n8n-ai-automations-ai-agents-and-custom-workflow-solutions)
 
 ---
 
