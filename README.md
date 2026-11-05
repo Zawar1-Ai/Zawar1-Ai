@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Zawar1-Ai&color=22C55E&style=flat" alt="Profile views" />
 </p>
 
-### AI Developer | BS Computer Science, Minhaj University Lahore (2029)
+### AI Developer | BS Computer Science
 
 Building practical AI tools, websites, automation and chatbots. No signup, no fluff — tools that work in the browser.
 
